@@ -1,8 +1,6 @@
 <h1 align="center"> Projeto de E-mail Marketing </h1>
 
-![Projeto Finalizado](https://img.shields.io/badge/Projeto%20Finalizado-brightgreen?style=flat&logoColor=white)
-
-![E-mail Marketing](https://img.shields.io/badge/E--mail%20Marketing-green?logo=gmail&logoColor=white)
+![Projeto](https://img.shields.io/badge/Projeto-gray) ![Finalizado](https://img.shields.io/badge/Finalizado-brightgreen) ![E-mail Marketing](https://img.shields.io/badge/E--mail%20Marketing-green?logo=gmail&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Descrição 
 
