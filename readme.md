@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto de E-mail Marketing </h1>
 
-[![Projeto Finalizado](https://img.shields.io/badge/Projeto%20Finalizado-Finalizado-brightgreen)](https://github.com/gitdisi/E-mailMarketing.git)
+[![Projeto](https://img.shields.io/badge/Projeto%20Finalizado-Finalizado-brightgreen)](https://github.com/gitdisi/E-mailMarketing.git)
 
 ## Descrição 
 
