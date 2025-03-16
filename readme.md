@@ -2,6 +2,8 @@
 
 [![Projeto](https://img.shields.io/badge/Projeto%20Finalizado-Finalizado-brightgreen)](https://github.com/gitdisi/E-mailMarketing.git)
 
+![E-mail Marketing](https://img.shields.io/badge/E--mail%20Marketing-green?logo=gmail&logoColor=white)
+
 ## Descrição 
 
 Este projeto é um template de e-mail responsivo desenvolvido para criar mensagens de marketing ou notificações de cadastro para uma empresa fictícia chamada "Circle".
