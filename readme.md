@@ -49,7 +49,7 @@ Criei padrões para tornar este código o mais limpo possível ao mesmo tempo em
 
 1) O gap entre os elementos será a partir de margin-top, dessa forma :
 
-html
+```html
 <!-- start margin 80px -->
 <table class="margin1" style="border-collapse: collapse; border-spacing: 0;" cellspacing="0" cellpadding="0">
     <tr>
@@ -57,6 +57,7 @@ html
     </tr>
 </table>
 <!-- end margin 80px -->
+ ```
 
 
 2) Cada "container" deve ser especificado a partir de quando começa ( start ) e quando termina ( end ), como visto no exemplo acima.
