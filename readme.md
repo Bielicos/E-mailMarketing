@@ -1,5 +1,7 @@
 <h1 align="center"> Projeto de E-mail Marketing </h1>
 
+[![Projeto Finalizado](https://img.shields.io/badge/Projeto%20Finalizado-Finalizado-brightgreen)](https://github.com/gitdisi/E-mailMarketing.git)
+
 ## Descrição 
 
 Este projeto é um template de e-mail responsivo desenvolvido para criar mensagens de marketing ou notificações de cadastro para uma empresa fictícia chamada "Circle".
