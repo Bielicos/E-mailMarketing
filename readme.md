@@ -6,8 +6,6 @@
 
 ## Descrição
 
-[Veja por si mesmo :)](https://bielicos.github.io/E-mailMarketing/)
-
 Este projeto é um template de e-mail responsivo desenvolvido para criar mensagens de marketing ou notificações de cadastro para uma empresa fictícia chamada "Circle".
 
 O código possui a versão "standard.html" com CSS padrão e sem restrições de tecnologias, que foi criado para facilitar a construção da versão "inline.html" onde utilizei das melhores práticas de CSS inline para fazer com que o código seja compatível com a maioria dos clientes de e-mail.
